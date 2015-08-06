@@ -1,0 +1,3 @@
+[submodule "vendor/helics"]
+	path = vendor/helics
+	url = https://github.com/philopon/helics.git
